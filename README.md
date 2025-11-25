@@ -67,12 +67,10 @@ My background blends **Front-End Development (Next.js/Vue.js)** with **Design An
 
 ## 📈 GitHub Stats
 
-> *(Optional — uncomment if you want these included!)*
+![Edward's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ed-specsE&show_icons=true&theme=tokyonight)
 
-```md
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ed-specs&layout=compact&theme=tokyonight)
 <!-- GitHub Stats -->
 <!--
-![Edward's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 -->
