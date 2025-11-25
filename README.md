@@ -65,9 +65,3 @@ My background blends **Front-End Development (Next.js/Vue.js)** with **Design An
 
 ---
 
-## 📈 GitHub Stats
-
-![Edward's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ed-specs&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ed-specs&layout=compact&theme=tokyonight)
-
