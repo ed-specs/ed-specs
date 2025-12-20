@@ -60,7 +60,7 @@ My background blends **Front-End Development (Next.js/Vue.js)** with **Design An
 
 **📧 Email:** [edwardcastillogatbonton@gmail.com](mailto:edwardcastillogatbonton@gmail.com)  
 **📞 Phone:** +63 916 256 1433  
-**📍 Location:** Poblacion 4, Victoria, Oriental Mindoro, 5205, Philippines  
+**📍 Location:** Victoria, Oriental Mindoro, 5205, Philippines  
 **🙋 Pronouns:** he/him  
 
 ---
