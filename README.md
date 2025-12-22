@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Edward C. Gatbonton**  
 ### 🚀 Bridging Design and Code for Seamless Web Experiences
 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=vercel)](#)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=vercel)](https://edwardgatbonton.vercel.app/)
 [![Email Badge](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:edwardcastillogatbonton@gmail.com)
 
 ---
