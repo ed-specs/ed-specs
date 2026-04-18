@@ -24,6 +24,7 @@ My background blends **Front-End Development (Next.js/Vue.js)** with **Design An
 ### **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
@@ -38,6 +39,7 @@ My background blends **Front-End Development (Next.js/Vue.js)** with **Design An
 ### **Databases**
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=000)
 ![MySQL](https://img.shields.io/badge/MySQL-005c84?style=for-the-badge&logo=mysql&logoColor=fff)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=fff)
 
 ### **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
@@ -62,6 +64,3 @@ My background blends **Front-End Development (Next.js/Vue.js)** with **Design An
 **📞 Phone:** +63 916 256 1433  
 **📍 Location:** Victoria, Oriental Mindoro, 5205, Philippines  
 **🙋 Pronouns:** he/him  
-
----
-
